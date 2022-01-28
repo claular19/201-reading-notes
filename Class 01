@@ -1,0 +1,6 @@
+The Windows System Restore tool allows you to revert to a specific restore point that includes old software, registry, and drivers. It's easy to achieve and important in the early
+stages of troubleshooting. This tool can be found in the System protection section. You have to select a specific restore point you want to revert to. Important to note that this 
+tool does NOT affect any non-system related files that are personal, such as pictures and documents. Windows will regularly create restore points on its own before events like 
+system updates.
+Execute command: rstrui.exe
+Registry: database that stores low-level settings for Windows OS and any applications that opt to use it.
