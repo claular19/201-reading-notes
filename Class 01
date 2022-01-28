@@ -4,3 +4,5 @@ tool does NOT affect any non-system related files that are personal, such as pic
 system updates.
 Execute command: rstrui.exe
 Registry: database that stores low-level settings for Windows OS and any applications that opt to use it.
+Statement: As we are learning about Windows administration, the Windows System Restore tool is very a important starting point as we begin to learn how to troubleshoot inside 
+Windows.
