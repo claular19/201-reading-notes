@@ -3,4 +3,4 @@ else. Veeam also allows multiple ways to recover data by restoring VM files, res
 for quick migration between different hosts for transferring VMs.
 
 Takeaway: Veeam seems like a convenient tool for easily backing up and restoring data. When learning about backing up and recovering data, it's important to understand the 
-resources we have to do so.
+resources we have to do so. Companies can use this for securing data in case problems with servers arise.
