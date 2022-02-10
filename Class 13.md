@@ -4,4 +4,5 @@ virtual machines within Amazon's EC2.
 
 Takeaway: AWS services are important to understand as we continue to learn further about virtual machines and how they work. AWS uses a system that allows them to efficiently 
 manage their virtual machines through appliances like EC2 and AMI.
+
 IaaS = Infrastructure as a Service. Such as AWS.
